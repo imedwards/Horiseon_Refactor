@@ -17,5 +17,5 @@ https://github.com/imedwards/Horiseon_Refactor.git
 Horiseon Deployed Page:
 https://imedwards.github.io/Horiseon_Refactor/
 
-#### Screenshot
+#### Screenshot: See Attached
 
